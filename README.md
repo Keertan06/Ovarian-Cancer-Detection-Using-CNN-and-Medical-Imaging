@@ -25,8 +25,8 @@ The model achieved strong performance in detecting ovarian cancer and
 demonstrates the potential of deep learning in healthcare diagnostics.
 
 ## Authors 
-Abrar-ul-haq
-Adithya Sharma K S
-C Keertan Kumar
-Piyush Kumar
+Abrar-ul-haq,
+Adithya Sharma K S,
+C Keertan Kumar,
+Piyush Kumar,
 BE – CSE (Data Science), RNS Institute of Technology
